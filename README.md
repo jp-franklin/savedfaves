@@ -1,5 +1,9 @@
 #### bookmarks 🤡
 
+[quake jyf](/pics/quakegreen.gif)
+
+![alt text](https://github.com/jp-franklin/savedfaves/blob/main/pics/quakgreen.gif?raw=true)
+https://github.com/jp-franklin/savedfaves/blob/main/pics/quakegreen.gif
 ----
 
 #### Programming 
