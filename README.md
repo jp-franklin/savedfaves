@@ -7,22 +7,26 @@
 ##### C#
 ##### HTMX
 
-
+----
 
 #### Cool Software
 ##### Linux
 ##### Windows
 
+----
 
 #### Microsoft Biz Products
 ##### Power Plat
 ##### 
 
-#### Tech (IRL)
+----
 
+#### Tech (IRL)
 ##### Monitors
 ##### Current PCs
 ##### Headphones
+
+----
 
 #### Home DIY stuff
 ##### Indoor Temps
