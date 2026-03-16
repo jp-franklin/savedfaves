@@ -8,7 +8,7 @@
   </h3>
 </div>
 <div align="center">
-<img src="pics/Bloodbar.gif" alt="bar" width="800">
+<img src="pics/Bloodbar.gif" alt="bar" width="500">
 </div>
 
 
