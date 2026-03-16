@@ -32,7 +32,7 @@
 - 
 ----
 
-#### Linux
+#### `Linux`
 ##### Books
 - https://www.linuxcommand.org/tlcl.php
   - https://nostarch.com/linux-command-line-3rd-edition
@@ -47,14 +47,20 @@
 ----
 #### `Tech (IRL)`
 
-##### `Monitors`
+##### Monitors
+- Dell 32 Curved Gaming Monitor - S3220DGF
+- LG 32GX850A-B - 32 UltraGear™ Glossy OLED Dual Mode 4K UHD 165Hz // FHD 330Hz 0.03ms G-Sync
+  - Audio extractor (req) -[ OREI 4-Port eARC 8K Audio Extractor 4x1 Switch](https://www.orei.com/collections/audio-extractor/products/8k-60hz-4-port-hdmi-switch-earc-bk-4929)
 ##### Current PCs
-- ThinkPad T16 Gen 2 AMD (16″)
-- 
+- 💻 ThinkPad T16 Gen 2 AMD (16″)
+  - AMD Ryzen™ 5 PRO 7545U Processor (3.20 GHz up to 4.90 GHz) //  32 GB LPDDR5X-6400MHz (Soldered)
+  - 512 GB SSD M.2 2280 PCIe Gen4 Performance TLC Opal
+- 💻 Asus ROG Zephyrus M GM501
+  - https://www.notebookcheck.net/Asus-ROG-Zephyrus-M-GM501-i7-8750H-GTX-1070-Full-HD-Laptop-Review.293956.0.html
 ##### Headphones
-- https://www.bestbuy.com/product/shokz-openrun-pro-2-mini-wireless-bone-conduction-open-ear-bluetooth-sports-headphones-black/J3GW2989PR
+- shokz - https://www.bestbuy.com/product/shokz-openrun-pro-2-mini-wireless-bone-conduction-open-ear-bluetooth-sports-headphones-black/J3GW2989PR
 ##### Keyboards
-- https://kinesis-ergo.com/shop/advantage360-signature/
+- kenesis - https://kinesis-ergo.com/shop/advantage360-signature/
 
 ----
 #### `Home DIY stuff`
