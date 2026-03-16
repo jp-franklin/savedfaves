@@ -3,7 +3,7 @@
 <div align="center">
 <h3>
     <img src="pics/quakegreen.gif" alt="Quake green animation" width="30">
-    <code><span style="font-size: 10em">bookmarks</span></code>
+    <code>bookmarks</code>
     <img src="pics/quakegreen.gif" alt="Quake green animation" width="30">
   </h3>
 </div>
