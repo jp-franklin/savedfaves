@@ -12,40 +12,48 @@
 </div>
 
 
-#### `Programming` 
+### `Programming` 
 
 ##### JS (general)
 ##### Threes.js
-- https://threejs-journey.com/
-  
+- paid course - https://threejs-journey.com/
+##### GO
+- [the little go book](https://www.openmymind.net/assets/go/go.pdf)
+- [let's go - online book](https://lets-go.alexedwards.net/)
+- [let's go further - online book](https://lets-go-further.alexedwards.net/?as=bp)
 ##### C#
 ##### HTMX
+- [hypermedia systems - online book](https://hypermedia.systems/)
 ##### Git
-- https://www.reddit.com/r/theprimeagen/comments/1q7odu0/caseys_intro_to_git_casey_is_a_git_wizard/
+- Casey Muratori's tut - https://www.reddit.com/r/theprimeagen/comments/1q7odu0/caseys_intro_to_git_casey_is_a_git_wizard/
 
 ##### React
-- https://www.murach.com/shop/react-detail
+- [Murach's book](https://www.murach.com/shop/react-detail)
 - 
 
 ##### Tailwinds `CSS`
 - Refactoring UI (book)
-- 
-----
 
-#### `Linux`
-##### Books
+##### General Webdev
+- [How Browsers Work](https://web.dev/articles/howbrowserswork)
+- RSS Revisitd - https://news.ycombinator.com/item?id=47253221&utm_term=comment
+----
+### Neovim btw 🤡
+#### Learning/setup
+- 
+
+---
+### `Linux`
+##### Books/Articles
+- https://thelearningjourneyebooks.com/
 - https://www.linuxcommand.org/tlcl.php
   - https://nostarch.com/linux-command-line-3rd-edition
+
 ##### General Edu/training
 - https://overthewire.org/wargames/bandit/
 
-
-
----
-#### Windows
-
 ----
-#### `Tech (IRL)`
+### `Tech (IRL)`
 
 ##### Monitors
 - Dell 32 Curved Gaming Monitor - S3220DGF
@@ -66,6 +74,11 @@
 #### `Home DIY stuff`
 
 ##### Indoor Temps
+
+### `Lit Resources` 
+- https://melville.electroniclibrary.org/
+
+
 - https://shadescreensolutions.com/products/solar-screen-kit
 
 
