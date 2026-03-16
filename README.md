@@ -29,7 +29,7 @@
 
 ##### React
 - [Murach's book](https://www.murach.com/shop/react-detail)
-- 
+- [full stack open - course](https://fullstackopen.com/en/#course-contents)
 
 ##### Tailwinds `CSS`
 - Refactoring UI (book)
@@ -40,6 +40,7 @@
 ----
 ### Neovim btw 🤡
 #### Learning/setup
+- [NeoVim The Practical Way](https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f)
 - 
 
 ---
