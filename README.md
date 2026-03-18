@@ -20,6 +20,7 @@
 - [let's go - online book](https://lets-go.alexedwards.net/)
 - [let's go further - online book](https://lets-go-further.alexedwards.net/?as=bp)
 #### C#
+- [MJ - Pragmatic Clean Architecture](https://www.milanjovanovic.tech/pragmatic-clean-architecture)
 #### HTMX
 - [hypermedia systems - online book](https://hypermedia.systems/)
 #### Git
