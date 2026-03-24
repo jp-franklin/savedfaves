@@ -71,7 +71,7 @@
 ### `Home DIY stuff`
 
 #### Indoor Temps
-- https://shadescreensolutions.com/products/solar-screen-kit
+- [solar screen kits](https://solarscreenoutlet.com/)
 
 ---
 ### `Lit Resources` 
