@@ -38,6 +38,7 @@
 ### Neovim btw 🤡
 #### Learning/setup
 - [NeoVim The Practical Way](https://alpha2phi.medium.com/learn-neovim-the-practical-way-8818fcf4830f)
+- [teej reads vim user manual](https://youtu.be/rT-fbLFOCy0)
 
 ---
 ### `Linux`
