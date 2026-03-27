@@ -14,7 +14,8 @@
 ### `Programming` 
 #### JS (General)
 #### Threes.js
-- paid course - https://threejs-journey.com/
+- $ - https://threejs-journey.com/
+- $ - https://simondev.io/#expertise-needed
 #### GO
 - [the little go book](https://www.openmymind.net/assets/go/go.pdf)
 - [let's go - online book](https://lets-go.alexedwards.net/)
