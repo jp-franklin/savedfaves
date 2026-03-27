@@ -16,6 +16,7 @@
 #### Threes.js
 - $ - https://threejs-journey.com/
 - $ - https://simondev.io/#expertise-needed
+- https://threejsresources.com/
 #### GO
 - [the little go book](https://www.openmymind.net/assets/go/go.pdf)
 - [let's go - online book](https://lets-go.alexedwards.net/)
